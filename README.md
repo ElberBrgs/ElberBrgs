@@ -1,16 +1,24 @@
-## Hi there 👋
+![13553ca7-9def-4565-bee8-961d2d94379b](https://github.com/user-attachments/assets/8dfd7e1c-6def-4148-8f1c-d0325db418e1)
 
-<!--
-**ElberBrgs/ElberBrgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, me chamo Élber Borges 👋
+### 📜 Desenvolvimento de Sistemas - SENAI - Serviço Nacional de Aprendizagem Industrial (2024 ~ 2025)
 
-Here are some ideas to get you started:
+## 🌐🖳 Tecnologias:
+![Tecnologias1](https://skillicons.dev/icons?i=java,python,c)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Tecnologias2](https://skillicons.dev/icons?i=javascript,html,css)
+
+![Tecnologias3](https://skillicons.dev/icons?i=git,github)
+
+![Tecnologias4](https://skillicons.dev/icons?i=mysql)
+
+## 🗂️ Skills:
+- Lógica de Programação
+- Programação Orientada à Objetos (POO)
+- Testes Unitários
+- Inglês fluente
+
+### 📊 GitHub Stats:
+![Most Used lang](https://github-readme-stats.vercel.app/api/top-langs/?username=ElberBrgs&theme=blue-green)
+
+![Elber GitHub stats](https://github-readme-stats.vercel.app/api?username=elberbrgs&show_icons=true&theme=dark)
