@@ -6,7 +6,7 @@
 ## 🌐🖳 Tecnologias:
 ![Tecnologias1](https://skillicons.dev/icons?i=java,spring,python,c)
 
-![Tecnologias2](https://skillicons.dev/icons?i=javascript,html,css)
+![Tecnologias2](https://skillicons.dev/icons?i=javascript,html,css,react)
 
 ![Tecnologias3](https://skillicons.dev/icons?i=git,github)
 
